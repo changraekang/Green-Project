@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>글쓰기 페이지</h1>
+<h1>글쓰기 페이지 </h1>
+<hr>
+<h3>강창래 페이지 완료<h3>
 </body>
 </html>
